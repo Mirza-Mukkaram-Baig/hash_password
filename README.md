@@ -12,8 +12,8 @@ Please remember, this project is for demonstration purposes and does not conside
 ## Requirements
 The project requires Python 3.6 or later. The following libraries are also required:
 
-- bcrypt
-- json
+- `bcrypt`
+- `json`
 - getpass
 - cryptography.fernet
 - cryptography.hazmat.primitives
