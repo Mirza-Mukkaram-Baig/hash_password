@@ -14,13 +14,13 @@ The project requires Python 3.6 or later. The following libraries are also requi
 
 - `bcrypt`
 - `json`
-- getpass
-- cryptography.fernet
-- cryptography.hazmat.primitives
-- cryptography.hazmat.primitives.kdf.pbkdf2
-- cryptography.hazmat.primitives.asymmetric
-- base64
-- os
+- `getpass`
+- `cryptography.fernet`
+- `cryptography.hazmat.primitives`
+- `cryptography.hazmat.primitives.kdf.pbkdf2`
+- `cryptography.hazmat.primitives.asymmetric`
+- `base64`
+- `os`
 
 You can install these libraries using pip:
 
